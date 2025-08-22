@@ -1,0 +1,14 @@
+name: PowerSnippets
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/87527580-e738-4091-9931-2ebfa68f71ea
+description: A collection of simple PowerShell snippets and functions
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
